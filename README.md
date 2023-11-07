@@ -141,7 +141,7 @@ cargo install --force cbindgen
 
 ### Building 
 
-Building the library requires [GNU make](https://www.gnu.org/software/make/), which is installed on most macOS systems.
+Building the library requires [GNU make](https://www.gnu.org/software/make/), which is installed on most Linux and macOS systems.
 
 Enter this command to build the C library: 
 
